@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118366755692",
+    "project_id": "android-push-notificatio-adc09",
+    "storage_bucket": "android-push-notificatio-adc09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118366755692:android:55c3e0821d5947b1b77149",
+        "android_client_info": {
+          "package_name": "com.ibrajix.firebasenotificationandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118366755692-d47fp691b6ohobudjq404eghrkit3rpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibrajix.firebasenotificationandroid",
+            "certificate_hash": "9861a7e9cd98b96ac11c2b3e7846b2f54e272657"
+          }
+        },
+        {
+          "client_id": "118366755692-6jilrcvah31ku77sd1h9d6b26bjgls2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNvlChtDEPblHVFf7DhJJA7C5FBC4IGaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118366755692-6jilrcvah31ku77sd1h9d6b26bjgls2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Notification Android</string>
+    <string name="notification_title">You have a new notification</string>
+    <string name="app_notification_channel_id">app_channel</string>
+    <string name="default_notification_channel_id">My notification</string>
+    <string name="name">Name</string>
+    <string name="notification">Notification</string>
+    <string name="send">Send</string>
+    <string name="send_capital">SEND</string>
+</resources>
